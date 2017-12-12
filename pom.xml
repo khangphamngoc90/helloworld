@@ -109,4 +109,7 @@
 		<jackson.version>2.5.3</jackson.version>
 		<jaxb.version>2.2.7</jaxb.version>
 	</properties>
+	<build>
+		<finalName>hello-mvc</finalName>
+	</build>
 </project>
